@@ -1,0 +1,18 @@
+.container {
+    border: 5px solid yellow ;
+    display: flex;
+    justify-content: flex-end ; /*try to change this to center for example */
+}
+
+.container > div {
+    padding: 10px;
+    text-align: center ;
+    font-size:1 4px ;
+    color: blue ;
+    border: 2px solid;
+    background-color: red ;
+}
+
+.logo {
+    margin-right: auto;
+}
