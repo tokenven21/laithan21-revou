@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    font-size: 50px;
+    font-style: bold;
+    text-shadow: 1px 1px 2px; /*level 1 = kanan kiri, level 2 = atas bawah, level 3 = tengah2*/
+    text-align: center;
+    color: blue;
+    line-height:10px;
+}
